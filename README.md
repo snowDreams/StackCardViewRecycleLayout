@@ -1,5 +1,8 @@
-#StackCardViewRecycleLayout
-##类似最美有物图片堆叠效果
+StackCardViewRecycleLayout
+====
+
+类似最美有物图片堆叠效果
+---------
 
 * 卡片层叠 动画:
   * 1、实现循环重用
