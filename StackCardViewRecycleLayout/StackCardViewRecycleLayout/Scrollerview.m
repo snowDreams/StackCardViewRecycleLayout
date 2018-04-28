@@ -98,6 +98,8 @@ static NSInteger safeIndex(NSInteger totalCount,NSInteger index){
     }
 }
 
+
+
 -(void)offsetChange{
     if(_cardContentViews.count<1) return;
     _contentView.frame = _contentScrollView.bounds;
